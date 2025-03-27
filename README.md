@@ -1,9 +1,10 @@
 # Dotfiles
 
 Config files for:
-    -GlazeWM
-    -VsCode
-    -Git
+- Windows
+    - GlazeWM
+    - VsCode
+    - Git
 
 ## Installation
 Clone the repository
@@ -26,6 +27,6 @@ Put the script config file in the corresponding folder
 
 ### Windows
 Put a new command at the end of the **Install.ps1** script
-```sh
-    New-Item -itemtype symboliclink -path <path_for_the_new_link> -name <name_of_the_new_link> -value <path_to_originial_file>
+```powershell
+New-Item -itemtype symboliclink -path <path_for_the_new_link> -name <name_of_the_new_link> -value <path_to_originial_file>
 ```
