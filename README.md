@@ -9,11 +9,11 @@ Config files for:
 ## Installation
 Clone the repository
 ```sh
-git clone git@github.com:Secret198/dotfiles.git
+git clone git@github.com:Secret198/dotfiles.git .dotfiles
 ```
 
 ```sh
-git clone https://github.com/Secret198/dotfiles.git
+git clone https://github.com/Secret198/dotfiles.git .dotfiles
 ```
 
 ### Windows
