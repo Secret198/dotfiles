@@ -6,6 +6,10 @@ Config files for:
     - VsCode
     - Git
 
+- Linux
+    - AwesomeWM
+    - Starship
+
 ## Installation
 Clone the repository
 ```sh
